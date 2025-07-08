@@ -1,47 +1,59 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hemaksh+Sharma;Aspiring+DevOps+Engineer+%F0%9F%9A%80;Freelancer+%7C+Video+Editor+%7C+Content+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+%F0%9F%91%8B%2C+I'm+Hemaksh+Sharma;Engineering+Student+%7C+DevOps+Learner;Coding+my+way+into+automation+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
----
-
-### ⚡ Quick Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemaksh69&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemaksh69&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-07235D?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🚀 Tech Stack I Use
+## 🚀 Projects That Represent Me
+
+### 🎮 Tic Tac Toe in C
+> A terminal-based 2-player game focused on core logic building and user interaction.
+
+### 📚 Library Management System (C++)
+> A command-line tool for managing books using **Stacks**, **Queues**, and **Lists** via C++ STL.
+
+### 🖥️ Screenshot Timelapse Bot (Python + OpenCV)
+> A Python automation bot that captures desktop activity and turns it into a **Ghili-effect timelapse**.
+
+---
+
+## 📘 Learning Now
+
+- 🔹 Git & GitHub Automation
+- 🔹 Linux Commands & Shell Scripting
+- 🔹 Python for System Automation
+- 🔹 OpenCV for creative projects
+- 🔹 DevOps Foundations
+
+---
+
+## 💬 A Thought I Live By
+
+> _“Don’t wait to be great. Start small, stay consistent, and build what others won’t.”_
+
+---
+
+## 📫 Let's Connect
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,python,c,cpp,vscode" />
+  <a href="https://linkedin.com/in/YOUR-LINK-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://instagram.com/YOUR-INSTA-HERE" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
+  </a>
 </p>
 
 ---
 
-### 🏆 GitHub Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemaksh69&theme=gruvbox&no-frame=true&margin-w=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
----
-
-### 🧠 About Me
-
-- 👨‍🎓 1st Year Engineering Student (RTU)
-- 🛠️ Exploring DevOps, GitHub Actions, Linux & Docker
-- 🎨 Also a content creator: posters, edits, thumbnails, logos
-- 🏋️‍♂️ Doing calisthenics & building consistency
-
----
-
-### 🔗 Let’s Connect
-
-<p align="center">
-  <a href="www.linkedin.com/in/hemaksh-sharma-1843a6338" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://www.instagram.com/wbu.hemaksh?igsh=MXF5aGc2NWJsc2Vncw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram"></a>
-</p>
-
