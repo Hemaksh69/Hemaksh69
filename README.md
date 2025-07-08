@@ -41,7 +41,7 @@
 ### 🔗 Let’s Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://instagram.com/YOUR-INSTA" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram"></a>
+  <a href="www.linkedin.com/in/hemaksh-sharma-1843a6338" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://www.instagram.com/wbu.hemaksh?igsh=MXF5aGc2NWJsc2Vncw%3D%3D&utm_source=qr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram"></a>
 </p>
 
