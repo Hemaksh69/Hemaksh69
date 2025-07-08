@@ -45,7 +45,7 @@
   <a href="https://www.linkedin.com/in/hemaksh-sharma-1843a6338" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="[https://www.instagram.com/wbu.hemaksh?igsh=MXF5aGc2NWJsc2Vncw==&utm_source=qr](https://www.instagram.com/wbu.hemaksh/)" target="_blank">
+  <a href="https://www.instagram.com/wbu.hemaksh?igsh=MXF5aGc2NWJsc2Vncw==&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
