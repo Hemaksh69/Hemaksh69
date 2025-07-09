@@ -1,9 +1,4 @@
-<!-- 👋 Hero Banner with Icons Background -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" alt="code banner"/>
-</p>
 
-<!-- ✨ Typing Animation with wider width -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B%2C+I'm+Hemaksh+Sharma;Engineering+Student+%7C+DevOps+Learner;Coding+my+way+into+automation+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
