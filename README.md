@@ -1,6 +1,6 @@
 <!-- 👋 Hero Banner with Icons Background -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="code banner"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="80%" alt="code banner"/>
 </p>
 
 <!-- ✨ Typing Animation with wider width -->
@@ -16,11 +16,11 @@
 
 <!-- 💻 Badges with animated icons -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" title="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" title="OpenCV"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" title="Git"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a479039c3cbb7d89f8b5b9d429a5d81c8f3f3e/images/python.gif" width="45" title="Python"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a479039c3cbb7d89f8b5b9d429a5d81c8f3f3e/images/cpp.gif" width="45" title="C++"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a479039c3cbb7d89f8b5b9d429a5d81c8f3f3e/images/c.gif" width="45" title="C"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a479039c3cbb7d89f8b5b9d429a5d81c8f3f3e/images/opencv.gif" width="45" title="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/Elanza-48/elanza-48/41a479039c3cbb7d89f8b5b9d429a5d81c8f3f3e/images/git.gif" width="45" title="Git"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 💋 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hemaksh-sharma-1843a6338" target="_blank">
