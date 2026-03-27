@@ -2,14 +2,12 @@ Here is the complete, final Markdown code. I have fixed the **broken image URLs*
 
 ### 🚀 Final "Operation Status" README
 
-````markdown
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hemaksh%20⚡&fontSize=70&fontColor=ffffff&animation=fadeIn&section=header&color=0:0f2027,50:2c5364,100:00e5ff&desc=DevSecOps%20Engineer%20|%20Automation%20Specialist&descAlignY=70&descSize=22" width="100%"/>
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Secure+Systems+Builder;Automation+First+Mindset;CI/CD+Architect;Anime+%2B+Tech+Fusion" />
 </div>
 
-````
 
 ## 🧠 Identity
 
