@@ -1,65 +1,89 @@
-<!-- ✨ Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=F72585&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B%2C+I'm+Hemaksh+Sharma;Engineering+Student+%7C+DevOps+Learner;Coding+my+way+into+automation+%F0%9F%9A%80" alt="Typing SVG" />
-</h1>
-
-<!-- ⚡ Glowing Welcome Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Welcome%20to%20My%20GitHub%20Profile&fontColor=ffffff&fontSize=28&animation=twinkling" />
-</p>
-
-<!-- 🧰 Tech Stack -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-07235D?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 🚀 Projects That Represent Me
-
-### 🎮 Tic Tac Toe in C
-> A terminal-based 2-player game built using basic C logic and control flow.
-
-### 📚 Library Management System (C++)
-> A console app using **Stacks**, **Queues**, and **Lists** with STL for real-time library simulation.
-
-### 🖥️ Screenshot Timelapse Bot (Python + OpenCV)
-> A bot that captures screen activity periodically and creates a **Ghili-style** timelapse from it.
-
----
-
-## 🧠 Currently Exploring
-
-- 🔧 Git & GitHub Workflows  
-- 🐧 Linux + Shell Scripting  
-- ⚙️ DevOps Practices & CI/CD  
-- 📸 OpenCV for Visual Projects  
-- 🐍 Python Automation
-
----
-
-## 💬 Words I Live By
-
-> _"Don’t wait to be great. Start small, stay consistent, and build what others won’t."_  
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hemaksh-sharma-1843a6338" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- Header Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=Hemaksh%20%F0%9F%91%8B&fontSize=80&fontColor=00e5ff&animation=fadeIn&desc=2nd%20Year%20Student%20%26%20DevSecOps%20Explorer&descAlignY=70&descAlign=50&descSize=25" width="100%" alt="Header" />
+  
+  <a href="https://github.com/Hemaksh69">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7B2CBF&center=true&vCenter=true&width=600&lines=Computer%20Science%20Student;Automating%20Security%20Pipelines;Building%20Resilient%20Systems;Engineering%20CI%2FCD%20Workflows" alt="Typing SVG" />
   </a>
-  <a href="https://www.instagram.com/wbu.hemaksh?igsh=MXF5aGc2NWJsc2Vncw==&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</div>
 
-<!-- Footer wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+## 🌐 Operation Status: Online
+
+I am a **2nd-Year Student** and an aspiring **DevSecOps & Automation Engineer** specializing in bridging the gap between infrastructure deployment and proactive security. My engineering journey revolves around eliminating manual toil, understanding how to harden systems against vulnerabilities, and orchestrating seamless CI/CD pipelines. 
+
+> *“Security isn't an afterthought; it's a foundational layer built into the fabric of automation.”*
+
+---
+
+## ⚙️ The DevOps Pipeline & Toolbox
+
+An engineer is only as effective as the pipeline they command. Below is the architecture of my daily toolkit:
+
+| Phase | Technologies |
+| :--- | :--- |
+| **_Languages_** | <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/> |
+| **_Automation / Cloud_** | <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> |
+| **_Security Monitoring_** | <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/> <img src="https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white"/>|
+
+---
+
+## 🚀 Mission-Critical Operations (Featured Projects)
+
+Here is a curated overview of the tools I've architected to secure networks and accelerate delivery:
+
+### 🛡️ [Auto-Security-Scanner](https://github.com/Hemaksh69/Auto-Security-Scanner)
+> **Role:** Lead Developer
+*A high-performance Bash-based threat assessment tool designed for comprehensive system auditing.*
+- **Impact:** Automates vulnerability discovery and misconfiguration checks across Linux environments, operating with zero external dependencies, making it universally portable for CI/CD container environments.
+
+### 🔑 [Watchdog Security Guardian](https://github.com/Hemaksh69/Watchdog_Security_Guardian)
+> **Role:** Security Automation Developer
+*A proactive secret-scanning utility engineered to identify and neutralize credential leaks.*
+- **Impact:** Hardens the commit pipeline by scanning for over 30+ credential patterns (AWS keys, tokens, SSH keys) before they reach the repository, mitigating supply chain attacks and credential exposure overhead.
+
+### 📸 [Screenshot Timelapse Bot](https://github.com/Hemaksh69/screenshot-timelapse-bot)
+> **Role:** Automation Developer
+*Python/OpenCV-driven orchestration for seamless visual workflow documentation.*
+- **Impact:** Reduces manual documentation overhead by converting daily workflow sessions into compressed, high-resolution timelapse visualizations, saving hours of manual recording configuration.
+
+### 📚 [Library Management System](https://github.com/Hemaksh69/LibraryManagementCPP)
+> **Role:** Systems Programmer
+*A robust command-line application demonstrating low-level memory management and logical architecture.*
+- **Impact:** Highlights foundational Computer Science principles, complex Data Structures, Algorithms (DSA), and object-oriented C++ design—serving as the logical foundation for my modern DevSecOps tooling.
+
+---
+
+## 📊 Telemetry & Metrics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemaksh69&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=7b2cbf&text_color=a9b1d6" alt="Hemaksh's GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Hemaksh69&theme=tokyonight&hide_border=true&fire=00e5ff&ring=7b2cbf&sideNums=a9b1d6&currStreakNum=ffffff&sideLabels=a9b1d6" alt="Hemaksh's GitHub Streak" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemaksh69&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6" alt="Top Languages" width="60%" />
+</div>
+
+---
+
+## 📡 Establish Connection
+
+I'm always open to discussing Infrastructure as Code, CI/CD optimizations, Zero Trust architecture, or collaborating on open-source projects. 
+
+<div align="center">
+  <a href="mailto:hemaksh69@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hemaksh69@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=1e1e2e&color=7B2CBF" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/y2kby_hemaksh">
+    <img src="https://img.shields.io/badge/Instagram-@y2kby__hemaksh-1e1e2e?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=1e1e2e&color=7B2CBF" alt="Instagram" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=100&section=footer" width="100%" alt="Footer" />
+</div>
