@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hemaksh%20⚡&fontSize=70&fontColor=ffffff&animation=fadeIn&section=header&color=0:0f2027,50:2c5364,100:00e5ff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hemaksh%20Sharma%20⚡&fontSize=70&fontColor=ffffff&animation=fadeIn&section=header&color=0:0f2027,50:2c5364,100:00e5ff" />
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Secure+Systems+Builder;Automation+First;Security+Automated" />
 </div>
