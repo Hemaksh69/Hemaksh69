@@ -56,25 +56,26 @@ Terraform | Ansible | Prometheus
 ## 📊 System Metrics
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hemaksh69&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=7b2cbf&text_color=a9b1d6)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hemaksh69&theme=tokyonight&hide_border=true&fire=00e5ff&ring=7b2cbf)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemaksh69&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=7b2cbf&text_color=a9b1d6" width="48%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemaksh69&theme=tokyonight&hide_border=true&fire=00e5ff&ring=7b2cbf&sideNums=a9b1d6" width="48%" alt="Streak" />
 </div>
 
 <br>
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hemaksh69&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemaksh69&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6" width="60%" alt="Top Languages" />
 </div>
 
 ---
 
-## 🎌 Anime Integration
 
+## 🎌 Character Arc: The Grind
+```zsh
+$ stats --view mindset
+> Focus: 100% (Shonen Spirit)
+> Discipline: Consistent (Daily Commits)
+> Current Arc: DevSecOps Mastery
+```
 - ⚡ **Inspired by anime discipline & character growth**
 - 🧠 **Applying Shonen Mindset → Consistency + Grind**
 - 🎯 **Goal: Elite DevSecOps Engineer with creator identity**
