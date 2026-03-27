@@ -1,6 +1,3 @@
-Here is the complete, final Markdown code. I have fixed the **broken image URLs** (by adding specific parameters for GitHub's renderer), centered the elements for better aesthetics, and ensured all your links to repositories like [Auto-Security-Scanner](https://github.com/Hemaksh69/Auto-Security-Scanner) are 100% correct.
-
-### 🚀 Final "Operation Status" README
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hemaksh%20⚡&fontSize=70&fontColor=ffffff&animation=fadeIn&section=header&color=0:0f2027,50:2c5364,100:00e5ff&desc=DevSecOps%20Engineer%20|%20Automation%20Specialist&descAlignY=70&descSize=22" width="100%"/>
