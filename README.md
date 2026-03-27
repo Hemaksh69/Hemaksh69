@@ -67,23 +67,6 @@ Here is a curated overview of the tools I've architected to secure networks and 
 </div>
 
 ---
-
-## 📡 Establish Connection
-
-I'm always open to discussing Infrastructure as Code, CI/CD optimizations, Zero Trust architecture, or collaborating on open-source projects. 
-
-<div align="center">
-  <a href="mailto:hemaksh69@gmail.com">
-    <img src="https://img.shields.io/badge/Email-hemaksh69@gmail.com-1e1e2e?style=for-the-badge&logo=gmail&logoColor=00E5FF&labelColor=1e1e2e&color=7B2CBF" alt="Email" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/y2kby_hemaksh">
-    <img src="https://img.shields.io/badge/Instagram-@y2kby__hemaksh-1e1e2e?style=for-the-badge&logo=instagram&logoColor=00E5FF&labelColor=1e1e2e&color=7B2CBF" alt="Instagram" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=100&section=footer" width="100%" alt="Footer" />
 </div>
