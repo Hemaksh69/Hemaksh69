@@ -23,12 +23,12 @@ I'm a **2nd-Year B.Tech student** focused on becoming a **DevSecOps Engineer** �
 <div align="center">
 
 ### 🧬 Core Stack
-- Linux | Bash | Python | Docker
-- Kubernetes | CI/CD | Infrastructure as Code
+Linux | Bash | Python | Docker
+ Kubernetes | CI/CD | Infrastructure as Code
 
 ### ⚡ DevOps & Automation
-- Jenkins | GitLab CI | GitHub Actions
-- Terraform | Ansible | Prometheus
+Jenkins | GitLab CI | GitHub Actions
+Terraform | Ansible | Prometheus
 
 </div>
 
