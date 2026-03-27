@@ -51,35 +51,23 @@ Jenkins | GitLab CI | GitHub Actions | Terraform | Ansible | Prometheus
 
 ---
 
-## 🎌 Character System
+## 📊 System Metrics
 
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Initializing+Character...;Loading+Stats...;System+Ready+⚡" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Hemaksh69&show_icons=true&theme=tokyonight&hide_border=true&title_color=00e5ff&icon_color=7b2cbf&text_color=a9b1d6&cache_seconds=1800" alt="GitHub Stats Card" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemaksh69&theme=tokyonight&hide_border=true&fire=00e5ff&ring=7b2cbf&sideNums=a9b1d6&cache_seconds=1800" alt="GitHub Streak Stats" width="48%" />
 </div>
 
+<br>
 
-> character --stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemaksh69&layout=compact&theme=tokyonight&hide_border=true&title_color=00e5ff&text_color=a9b1d6&cache_seconds=1800" alt="Top Languages" width="60%" />
+</div>
 
-Name      : Hemaksh
-Class     : DevSecOps Engineer
-Level     : 2  (Grinding...)
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━
+## 🎌 Philosophy & Mindset
 
-Skills:
-
-Automation   ⚙️  ███████░░░
-Security     🔐  ██████░░░░
-DevOps       🚀  ███████░░░
-Discipline   ⚡  █████████░
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Status : Training Arc
-Goal   : System Architect ⚡
-```
 - ⚡ **Inspired by anime discipline & character growth**
 - 🧠 **Applying Shonen Mindset → Consistency + Grind**
 - 🎯 **Goal: Elite DevSecOps Engineer with creator identity**
