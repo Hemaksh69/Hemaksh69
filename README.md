@@ -8,9 +8,9 @@ DevSecOps | Security Automation | CI/CD Pipeline Security
 
 ## What I build
 
-**WatchDog** — scans code for hardcoded secrets like API keys and passwords before they reach the cloud. Uses GitHub Actions to run automatically on every push.
+**[WatchDog](https://github.com/Hemaksh69/Watchdog_Security_Guardian)** — scans code for hardcoded secrets like API keys and passwords before they reach the cloud. Uses GitHub Actions to run automatically on every push.
 
-**AutoSec** — Linux vulnerability scanner that checks running systems for security issues and generates a threat assessment report with risk scoring.
+**[AutoSec](https://github.com/Hemaksh69/Auto-Security-Scanner)** — Linux vulnerability scanner that checks running systems for security issues and generates a threat assessment report with risk scoring.
 
 ---
 
