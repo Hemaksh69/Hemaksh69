@@ -29,5 +29,4 @@ Bash · Python · Linux · Docker · GitHub Actions · Gitleaks · Semgrep (lear
 ---
 
 ## Contact
-
-LinkedIn: linkedin.com/in/hemaksh-sharma-1843a6338
+[LinkedIn](https://linkedin.com/in/hemaksh-sharma-1843a6338)
