@@ -30,5 +30,4 @@ Bash · Python · Linux · Docker · GitHub Actions · Gitleaks · Semgrep (lear
 
 ## Contact
 
-Email: hemakshn.sharma@proton.me  
 LinkedIn: linkedin.com/in/hemaksh-sharma-1843a6338
