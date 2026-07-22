@@ -24,7 +24,7 @@ Bash · Python · Linux · Docker · GitHub Actions · Gitleaks · Semgrep (lear
 
 - Container security with Trivy
 - CI/CD pipeline hardening
-- OverTheWire Bandit (level 12)
+- OverTheWire Bandit (level 34)
 
 ---
 
